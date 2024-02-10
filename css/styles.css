@@ -38,7 +38,7 @@ header {
 }
 header h1 {
   font-size: 45px;
-  color: rgb(255, 174, 0);
+  color: rgb(255, 0, 0);
 }
 header h2 {
   font-size: 30px;
@@ -69,14 +69,14 @@ p strong {
   font-size: 30px;
 }
 p strong span {
-  color: rgb(255, 174, 0);
+  color: rgb(255, 0, 0);
 }
 
 button {
   width: 170px;
   font-size: 18px;
-  color: rgb(255, 174, 0);
-  border: solid 1px rgb(255, 174, 0);
+  color: rgb(255, 0, 0);
+  border: solid 1px rgb(255, 0, 0);
   padding: 10px;
   border-radius: 5px;
   margin-top: 20px;
